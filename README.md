@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Supuni Jayasinghe</h1>
 <h3 align="center">A Passionate Computer Engineering Student | Crafting Code, Shaping Tomorrow 🚀</h3>
-<img src="https://img.freepik.com/free-vector/woman-working-using-laptop-flat-design_1308-91907.jpg?w=900&t=st=1701167487~exp=1701168087~hmac=ae68de3696db08daf146ae6981bc5cb8e56814bcf9d0a41f37e9ff12da4e8d79" height="600" width="100%"/>
+
 
 - 🌱 I’m currently learning **MERN Stack**
 
@@ -25,6 +25,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=supunijayasinghe&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=supunijayasinghe&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
