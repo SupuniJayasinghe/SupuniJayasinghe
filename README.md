@@ -1,7 +1,10 @@
 
 
-<h1 align="center">Hi 👋, I'm Supuni Jayasinghe</h1>
+<h1 align="center" margin-bottom=0>Hi 👋, I'm Supuni Jayasinghe</h1>
 <h3 align="center">A Passionate Computer Engineering Student | Crafting Code, Shaping Tomorrow 🚀</h3>
+
+![LinkedIn Banner](https://github.com/SupuniJayasinghe/SupuniJayasinghe/assets/139542877/d0532714-1607-4bdf-bea5-5b426fcf7cbe)
+
 
 
 - 🌱 I’m currently learning **MERN Stack**
