@@ -8,8 +8,11 @@
 
 
 - 🌱 I’m currently learning **MERN Stack**
+  
 
 - 📫 How to reach me **supuninavo@gmail.com**
+ <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
