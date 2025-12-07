@@ -1,39 +1,154 @@
+<!-- HEADER -->
+<h1 align="center" style="margin-bottom:0;">Hi 👋, I'm Supuni Jayasinghe</h1>
 
-
-<h1 align="center" margin-bottom=0>Hi 👋, I'm Supuni Jayasinghe</h1>
-<h3 align="center">A Passionate Computer Engineering Student | Crafting Code, Shaping Tomorrow 🚀</h3>
-
-![LinkedIn Banner](https://github.com/SupuniJayasinghe/SupuniJayasinghe/assets/139542877/d0532714-1607-4bdf-bea5-5b426fcf7cbe)
-
-
-
-- 🌱 I’m currently learning **MERN Stack**
-  
-
-- 📫 How to reach me **supuninavo@gmail.com**
- <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/supuni jayasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supuni jayasinghe" height="30" width="40" /></a>
-<a href="https://fb.com/supuni jayasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="supuni jayasinghe" height="30" width="40" /></a>
+<!-- ANIMATED TYPING -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=3FBFA8&size=24&center=true&vCenter=true&width=700&lines=Computer+Engineering+Undergraduate;Full-Stack+Developer+(MERN);Cybersecurity+%26+AI+Enthusiast;Crafting+Secure+%26+Intelligent+Digital+Experiences+✨"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=supunijayasinghe&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=supunijayasinghe&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=supunijayasinghe&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SupuniJayasinghe&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
+<!-- BANNER -->
+<p align="center">
+  <img src="https://github.com/SupuniJayasinghe/SupuniJayasinghe/assets/139542877/d0532714-1607-4bdf-bea5-5b426fcf7cbe" width="100%" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SupuniJayasinghe&icon=7&color=1)](https://visitcount.itsvg.in)
 
+## 👩‍💻 **Who Am I?**
 
+I’m an enthusiastic and detail-oriented **Computer Engineering undergraduate** with hands-on experience in:
 
+- Full-stack web development (React, Node.js, Express.js, MongoDB)  
+- Microservices, cloud deployment
+- Secure software engineering, encryption, authentication & ethical hacking  
+- AI-powered systems, NLP, multi-agent architectures  
 
+I love building **meaningful, impactful applications** that blend **AI + Security + Engineering** to solve real problems.
+
+---
+
+## 🚀 **What I Do**
+
+### 🌐 **Full-Stack Development**
+Building responsive, scalable, secure web applications using:
+
+- **Frontend:** React, Tailwind CSS  
+- **Backend:** Node.js, Express (MVC), FastAPI  
+- **Database:** MongoDB, MySQL  
+- **Architecture:** Microservices, Docker, Nginx, AWS EC2  
+
+---
+
+### 🔐 **Cybersecurity & Ethical Hacking**
+Passionate about secure architecture and cyber-defense:
+
+- AES & RSA encryption  
+- SHA-256 hashing  
+- Secure key exchange  
+- Threat analysis & secure architecture  
+- CTF / Hackathon achievements
+
+---
+
+### 🤖 **AI & Intelligence Systems**
+I enjoy designing AI workflows for real-life problems:
+
+- NLP pipelines  
+- Multi-agent therapy systems  
+- Speech-to-text  
+- RAG & LLM integrations
+
+---
+
+## 🏆 **Achievements**
+
+- 🥇 **1st Place – Red Cypher 1.0 CTF Competition**  
+- 🥇 **1st Place – Haxtream 2.0 Hackathon**  
+- 🥈 **2nd Place – Eminence 3.0 Hackathon** (Team Leader)  
+---
+
+## 🛠️ **Technical Stack**
+
+### **Programming**
+`C++` • `Java` • `Python` • `JavaScript` • `HTML` • `CSS`
+
+### **Web & Software**
+`React` • `Node.js` • `Express.js` • `MERN`  
+`Tailwind CSS` • `FastAPI` • `Netlify`
+
+### **Database**
+`MongoDB` • `MySQL`
+
+### **Security**
+`AES` • `RSA` • `SHA-256` • `OAuth2` • `JWT` • `HTTPS`
+
+### **DevOps / Cloud**
+`Docker` • `Terraform` • `AWS EC2`  
+`Nginx` • `GitHub Actions` • `CI/CD Pipelines`
+
+### **Other**
+`Data Structures & Algorithms` • `Design Patterns`  
+`Microservices` • `UI/UX Design` • `Machine Learning`
+
+---
+
+## 🌟 **My Mission**
+
+To become a **Security Engineer / Full-Stack Engineer** who builds intelligent, secure, high-impact systems that protect, empower, and improve the digital world.
+
+---
+
+## 📬 **Let’s Connect**
+
+📧 **Email:** supuninavo@gmail.com  
+💼 **LinkedIn:** www.linkedin.com/in/supuni-jayasinghe-0b1533284  
+💻 **GitHub:** github.com/SupuniJayasinghe  
+
+---
+
+# 🛡️ Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-3FBFA8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Role-Full--Stack--Developer-2CA58D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Loves-AI%20%26%20Multi--Agent-1D8A7B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Ethical-Hacking-0D6E63?style=for-the-badge"/>
+</p>
+
+---
+
+# 🧰 Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,react,nodejs,express,mongodb,mysql,tailwind,docker,terraform,aws,nginx,figma" height="80"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SupuniJayasinghe&theme=react&show_icons=true&hide_border=false" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SupuniJayasinghe&theme=react&hide_border=false" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupuniJayasinghe&layout=compact&theme=react&hide_border=false" height="170"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SupuniJayasinghe&theme=algolia&no-frame=true&margin-w=4" />
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=SupuniJayasinghe&icon=7&color=1" />
+</p>
+
+---
