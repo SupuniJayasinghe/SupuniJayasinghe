@@ -19,7 +19,7 @@
 - 📄 Published researcher — **AIMDA 2026** (University of Peradeniya) & Vice Chancellor's Awards 2026
 - 🌱 Deepening my skills in **AWS cloud deployment**, **AI agents**, and **system design**
 - 📫 Reach me: **[LinkedIn](https://linkedin.com/in/SupuniJayasinghe)** · **supuninavo@gmail.com**
-- 🇱🇰 Based in Sri Lanka
+
 
 ---
 
