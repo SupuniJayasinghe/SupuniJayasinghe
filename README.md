@@ -14,7 +14,6 @@
 
 - 🎓 Computer Engineering graduate from the **University of Ruhuna, Sri Lanka** — 2nd Upper Class (GPA: 3.60)
 - 💼 Former Software Engineering Intern at **Simsyn Pvt Ltd** — built full-stack features in production using React & Node.js
-- 🔭 Currently building an **Event Ticketing & Management System** (MERN + Docker + AWS)
 - 🏆 Multiple hackathon & CTF winner — including **1st place** at Haxtream 2.0 & Red Cypher 1.0
 - 📄 Published researcher — **AIMDA 2026** (University of Peradeniya) & Vice Chancellor's Awards 2026
 - 🌱 Deepening my skills in **AWS cloud deployment**, **AI agents**, and **system design**
